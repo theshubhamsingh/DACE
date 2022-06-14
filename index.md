@@ -1,5 +1,5 @@
 # Dr. Ambedkar Centre of Excellence
-
+[Image](https://static.theprint.in/wp-content/uploads/2022/04/Babsaheb-Ambedkar-copy-e1649856783113.jpg) 
 Dr. Ambedkar Centre of Excellence (DACE) at Cetral University of Punjab is an inititaive by The Ministry of Social Justice & Empowerment, Government of India, through the Dr. Ambedkar Foundation (DAF).
 This centre is established on the 1st of April 2022 where ministry has approved Dr. Ambedkar Centre of Excellence in 30 Central Universities to coach Scheduled Castes students. The aim of the centre is to empower Scheduled Caste students in competitive exams by providing the best and free coaching facilities in the Central University of Punjab, Bathinda through support from the Ministry of Social Justice & Empowerment. This scheme provides specialized coaching ONLY to the scheduled caste students for the Civil Services examination conducted by the Union Public Service Commission.
 
