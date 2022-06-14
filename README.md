@@ -1,2 +1,2 @@
-# dace
+# DACE
 Dr. Ambedkar Centre of Excellence
