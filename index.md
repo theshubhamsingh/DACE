@@ -1,6 +1,13 @@
-## Welcome to Dr. Ambedkar Centre of Excellence
+# Dr. Ambedkar Centre of Excellence
 
-You can use the [editor on GitHub](https://github.com/theshubhamsingh/dace/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dr. Ambedkar Centre of Excellence (DACE) at Cetral University of Punjab is an inititaive by The Ministry of Social Justice & Empowerment, Government of India, through the Dr. Ambedkar Foundation (DAF).
+This centre is established on the 1st of April 2022 where ministry has approved Dr. Ambedkar Centre of Excellence in 30 Central Universities to coach Scheduled Castes students. The aim of the centre is to empower Scheduled Caste students in competitive exams by providing the best and free coaching facilities in the Central University of Punjab, Bathinda through support from the Ministry of Social Justice & Empowerment. This scheme provides specialized coaching ONLY to the scheduled caste students for the Civil Services examination conducted by the Union Public Service Commission.
+
+For [register on DACE](https://docs.google.com/forms/d/e/1FAIpQLScihrkqKkm_7aB5crmmGOuGH5rFOUNG1lq0ZdlS1Cq1Tv_ytg/viewform) follow the link before 15th June 2022.
+
+## Instructions for Applying in DACE
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
